@@ -1,4 +1,4 @@
-# Prediksi Harga Apartemen Daegu
+# Prediksi Harga Apartemen di Daegu, Korea Selatan
 
 ## Deskripsi Proyek
 Proyek ini menggunakan *dataset* Daegu Apartment untuk menganalisis faktor-faktor yang memengaruhi harga apartemen di Daegu, Korea Selatan. Dengan atribut seperti tipe apartemen, jarak ke stasiun *subway* terdekat, fasilitas di sekitar, ukuran apartemen, dan tahun pembangunan, proyek ini bertujuan untuk membangun model prediktif yang dapat memperkirakan harga apartemen secara akurat. Model ini akan membantu dalam pengambilan keputusan strategis terkait harga jual atau pembelian apartemen di wilayah tersebut.
@@ -21,7 +21,7 @@ Proyek ini adalah bagian dari **Capstone Project Module 3** dalam program **Data
 ## Latar Belakang
 Daegu adalah kota terbesar keempat di Korea Selatan dengan lebih dari 2,4 juta penduduk. Kepadatan penduduk yang tinggi menjadikan apartemen sebagai pilihan utama untuk hunian. Namun, banyak pemilik apartemen yang kesulitan dalam menetapkan harga jual yang tepat, yang dapat mengarah pada kesulitan dalam menjual atau merugi.
 
-Proyek ini bertujuan untuk mengatasi masalah tersebut dengan membangun model prediktif yang dapat memperkirakan harga apartemen berdasarkan berbagai faktor internal (seperti ukuran dan fasilitas apartemen) dan eksternal (seperti lokasi dan akses transportasi).
+Proyek ini bertujuan untuk mengatasi masalah tersebut dengan membangun model prediktif yang dapat memperkirakan harga apartemen berdasarkan berbagai faktor internal (seperti ukuran dan fasilitas apartemen).
 
 ## Metode Evaluasi
 Model regresi yang dibangun akan dievaluasi menggunakan beberapa metrik:
